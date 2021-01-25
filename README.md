@@ -17,3 +17,8 @@ Our purpose of this analysis was to correct for innacurate data for the grade ni
 
 ![](https://github.com/Mikeblanchard/School_District_Analysis/blob/main/Resources/nines%20removed.png)
 
+
+
+#### Summary
+
+The biggest changes we saw were rate of overall passing, the average math and reading scores, and the combined 
