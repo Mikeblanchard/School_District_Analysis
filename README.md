@@ -21,4 +21,4 @@ Our purpose of this analysis was to correct for innacurate data for the grade ni
 
 #### Summary
 
-The biggest changes we saw were rate of overall passing, the average math and reading scores, and the combined 
+The biggest changes we saw were rate of overall passing, which removing the faulty data of grade nines clears up. A deceased number of students would represent a smaller data pool to pull from. Given that not much else changes in the categories we looked at, we can conclude that the effect was minimal. 
